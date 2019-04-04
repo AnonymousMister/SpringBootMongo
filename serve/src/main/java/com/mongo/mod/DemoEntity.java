@@ -11,7 +11,7 @@ import java.io.Serializable;
  * @author yanpenglei
  * @create 2018-02-03 16:52
  **/
-@Document(collection = "demo_collection")
+@Document(collection = "demo")
 public class DemoEntity implements Serializable {
 
     @Id
